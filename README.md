@@ -21,8 +21,7 @@
 - 🔭 <samp>Diploma in Computer Engrineering from SSP Institute Of Technology
 - 🧑🏽 <samp><b>Founder of AapanaVypar </b>
 - 🥇 <samp>First In National Level Robotics Competition
-- 💼 <samp>I’m looking for **Internship** Opportunities/roles.
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- 💼 <samp>COEP 24.
 </div>
 
 ##
